@@ -1,6 +1,6 @@
 {
   "name": "@axetroy/wxapp-storage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "js lib boilerplate with webpack",
   "main": "./dist/index.js",
   "scripts": {
