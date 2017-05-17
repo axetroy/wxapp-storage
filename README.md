@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-green.svg)](https://github.com/prettier/prettier)
 ![Node](https://img.shields.io/badge/node-%3E=6.0-blue.svg?style=flat-square)
-[![npm version](https://badge.fury.io/js/wxapp-storage.svg)](https://badge.fury.io/js/wxapp-storage)
+[![npm version](https://badge.fury.io/js/%40axetroy%2Fwxapp-storage.svg)](https://badge.fury.io/js/%40axetroy%2Fwxapp-storage)
 
 Git Package Manager, make you manage the repository easier
 
