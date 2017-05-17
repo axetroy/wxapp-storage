@@ -61,3 +61,9 @@ typings/
 
 # idea
 .idea
+.github
+test
+.editorconfig
+.babelrc
+.all-contributorsrc
+.travis.yml
