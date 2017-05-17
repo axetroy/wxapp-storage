@@ -1,0 +1,32 @@
+{
+  "name": "wxapp-storage",
+  "version": "0.1.0",
+  "description": "js lib boilerplate with webpack",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "ava",
+    "build": "webpack --display-error-details --progress --colors",
+    "watch": "webpack --display-error-details --progress --colors --watch",
+    "generate": "all-contributors generate",
+    "deploy": "gh-pages -d ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axetroy/wxapp-storage.git"
+  },
+  "author": "Axetroy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axetroy/wxapp-storage/issues"
+  },
+  "homepage": "https://github.com/axetroy/wxapp-storage#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^4.0.1",
+    "ava": "^0.18.2",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "gh-pages": "^0.12.0",
+    "webpack": "^2.3.3"
+  }
+}
