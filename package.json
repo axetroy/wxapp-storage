@@ -10,6 +10,11 @@
     "generate": "all-contributors generate",
     "deploy": "gh-pages -d ./dist"
   },
+  "keywords": [
+    "wxapp",
+    "wx",
+    "storage"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/axetroy/wxapp-storage.git"
