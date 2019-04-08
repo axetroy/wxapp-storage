@@ -26,12 +26,12 @@
   },
   "homepage": "https://github.com/axetroy/wxapp-storage#readme",
   "devDependencies": {
-    "all-contributors-cli": "^4.0.1",
-    "ava": "^0.19.1",
+    "all-contributors-cli": "^6.2.0",
+    "ava": "^1.4.1",
     "babel-core": "^6.24.0",
-    "babel-loader": "^7.0.0",
+    "babel-loader": "^8.0.5",
     "babel-preset-es2015": "^6.24.0",
-    "gh-pages": "^1.0.0",
-    "webpack": "^2.3.3"
+    "gh-pages": "^2.0.1",
+    "webpack": "^4.29.6"
   }
 }
